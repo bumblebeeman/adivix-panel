@@ -1,2 +1,3 @@
 Introduction
 ============
+Adivix panel template.
